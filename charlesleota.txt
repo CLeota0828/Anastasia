@@ -5,3 +5,7 @@ Hello, my name is Charles Leota.
 Second Change
 =============
 I'm a Senior at Norwalk High School
+
+Third Change
+============
+I love to draw, program, and play games.
