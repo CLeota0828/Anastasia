@@ -1,3 +1,7 @@
 First Change
 ===========
 Hello, my name is Charles Leota.
+
+Second Change
+=============
+I'm a Senior at Norwalk High School
